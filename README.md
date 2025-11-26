@@ -25,7 +25,7 @@ var interp = new Interpreter(lexicalScoping: false, output: Console.Out);
 interp.Run("3 4 add =");
 ```
 
-## Chang Scoping
+## Change Scoping
 
 Scoping mode is selected in the constructor:
 
